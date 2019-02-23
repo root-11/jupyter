@@ -1,2 +1,3 @@
 # jupyter
-A collection of jupyter notebooks.
+
+This is a collection of jupyter notebooks written by Bjorn Madsen
