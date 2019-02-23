@@ -1,2 +1,2 @@
 # jupyter
-My collection of jupyter notebooks
+A collection of jupyter notebooks.
